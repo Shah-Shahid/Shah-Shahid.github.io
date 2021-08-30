@@ -523,6 +523,7 @@ section {
 --------------------------------*/
 #about {
   padding: 80px 0;
+  background: #f5f8fd url("../img/covid-19-back.jpeg") center top no-repeat; 
 }
 
 #about .about-content {
